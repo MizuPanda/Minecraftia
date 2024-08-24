@@ -1,6 +1,7 @@
 package com.mizupanda.minecraftia;
 
 import com.mizupanda.minecraftia.block.ModBlocks;
+import com.mizupanda.minecraftia.item.ModCreativeModeTabs;
 import com.mizupanda.minecraftia.item.ModItems;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.CreativeModeTab;
@@ -81,6 +82,8 @@ public class Minecraftia
         // Note that this is necessary if and only if we want *this* class (ExampleMod) to respond directly to events.
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
+
+        ModCreativeModeTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);

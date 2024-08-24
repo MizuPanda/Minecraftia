@@ -1,6 +1,10 @@
 {
   "item.minecraftia.bismuth": "Bismuth",
   "item.minecraftia.raw_bismuth": "Raw Bismuth",
+
   "block.minecraftia.bismuth_block": "Block of Bismuth",
-  "block.minecraftia.bismuth_ore": "Bismuth Ore"
+  "block.minecraftia.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.minecraftia.bismuth_items": "Bismuth Items",
+  "creativetab.minecraftia.bismuth_blocks": "Bismuth Blocks"
 }
