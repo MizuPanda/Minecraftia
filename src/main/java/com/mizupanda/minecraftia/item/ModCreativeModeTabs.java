@@ -40,6 +40,7 @@ public static final Supplier<CreativeModeTab> BISMUTH_BLOCK_TAB = CREATIVE_MODE_
                             .displayItems((itemDisplayParameters, output) -> {
                                 output.accept(ModBlocks.BISMUTH_BLOCK);
                                 output.accept(ModBlocks.BISMUTH_ORE);
+                                output.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
                             }).build()
             );
 
