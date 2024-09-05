@@ -3,10 +3,13 @@
   "item.minecraftia.raw_bismuth": "Raw Bismuth",
   "item.minecraftia.chisel": "Chisel",
 
+  "item.minecraftia.radish": "Radish",
+
   "block.minecraftia.bismuth_block": "Block of Bismuth",
   "block.minecraftia.bismuth_ore": "Bismuth Ore",
   "block.minecraftia.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
 
+  "block.minecraftia.magic_block": "Magic Block",
 
   "creativetab.minecraftia.bismuth_items": "Bismuth Items",
   "creativetab.minecraftia.bismuth_blocks": "Bismuth Blocks"
