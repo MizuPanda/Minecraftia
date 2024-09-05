@@ -14,5 +14,11 @@
   "block.minecraftia.magic_block": "Magic Block",
 
   "creativetab.minecraftia.bismuth_items": "Bismuth Items",
-  "creativetab.minecraftia.bismuth_blocks": "Bismuth Blocks"
+  "creativetab.minecraftia.bismuth_blocks": "Bismuth Blocks",
+
+  "tooltip.minecraftia.magic_block.tooltip": "This Block is very §9MAGICAL§r",
+
+  "tooltip.minecraftia.chisel.shift_down": "This item can chisel Blocks into Bricks",
+  "tooltip.minecraftia.chisel": "Press §eShift§r for more Information",
+  "tooltip.minecraftia.radish.tooltip": "Tastes really great!"
 }
