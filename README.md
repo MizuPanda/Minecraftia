@@ -21,7 +21,7 @@ Key features include:
 - **Neoforge**: 1.21 (or later)
 - **Java**: 17+
 - **Other Dependencies**:
-    - [Neoforge Mod Loader](https://neoforge.net/)
+    - [Neoforge Mod Loader](https://neoforged.net/)
 
 ## Installation
 
